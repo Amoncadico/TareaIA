@@ -31,3 +31,15 @@ Random Forest
 - 371(Errores Viviendas Media-Caras): Casos de viviendas de precio alto que el modelo predijo erróneamente como medio.
 - 1175(Viviendas Caras): Casos de viviendas de precio alto que el modelo predijo correctamente como caras.
 
+Gradient Boosting
+
+- 1196(Viviendas Baratas): Casos correctamente clasificados como bajo. 
+- 336(Error Viviendas Medias-Baratas): Casos de viviendas que eran baratas pero clasificó como medias. 
+- 5 (Errores Viviendas Caras-Baratas): Casos de viviendas que eran baratas pero clasificó como caras. 
+- 221(Errores Viviendas Baratas-Media): Casos de viviendas de precio medio que el modelo predijo erróneamente como baratas. 
+- 2690(Viviendas Media): Casos de viviendas de precio medio que el modelo predijo correctamente como precio medio. 
+- 189(Errores Viviendas Caras-Media): Casos de viviendas de precio medio que el modelo predijo erróneamente como caras. 
+- 11(Errores Viviendas Baratas-Caras): Casos de viviendas de precio alto que el modelo predijo erróneamente como baratas. 
+- 370(Errores Viviendas Media-Caras): Casos de viviendas de precio alto que el modelo predijo erróneamente como medio.
+- 1174(Viviendas Caras): Casos de viviendas de precio alto que el modelo predijo correctamente como caras. 
+
